@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+.handler-saves
+
+.idea
+.vscode
+*.ntvs*
+*.njsproj
+*.sin
+*.sw?
